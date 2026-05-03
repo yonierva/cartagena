@@ -84,7 +84,7 @@ nav {
       rgba(169, 69, 48, 0.38) 55%,
       rgba(26, 95, 122, 0.55) 100%
     ),
-    url("./assets/fotoHero.png")
+    url("./assets/fotoHero.jpg")
       center/cover no-repeat;
   display: flex;
   flex-direction: column;
